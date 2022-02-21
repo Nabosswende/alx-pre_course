@@ -1,0 +1,1 @@
+*This course is about learning git and practicing Linux commands*
